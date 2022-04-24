@@ -1,4 +1,4 @@
-# WPU Portfolio
+# WPU Hit the Mole
 
 [![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://github.com/handokoadjip/project-learn-wpu-hit-the-mole)
 [![stability-experimental](https://img.shields.io/badge/stability-experimental-orange.svg)](https://github.com/handokoadjip/project-learn-wpu-hit-the-mole)
